@@ -1,0 +1,11 @@
+﻿  AircraftCalculator.cpp
+C:\Users\Travis\source\repos\AircraftCalculator\AircraftCalculator\AircraftCalculator.cpp(16,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Travis\source\repos\AircraftCalculator\AircraftCalculator\AircraftCalculator.cpp(33,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Travis\source\repos\AircraftCalculator\AircraftCalculator\AircraftCalculator.cpp(45,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Travis\source\repos\AircraftCalculator\AircraftCalculator\AircraftCalculator.cpp(57,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  6 of 17 functions (35.3%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  AircraftCalculator.vcxproj -> C:\Users\Travis\source\repos\AircraftCalculator\Release\AircraftCalculator.exe
